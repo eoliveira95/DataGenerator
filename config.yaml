@@ -1,0 +1,18 @@
+credentials:
+  usernames:
+    eosantos:
+      email: eduardo.santos@cesvibrasil.com.br
+      failed_login_attempts: 0
+      logged_in: False
+      name: Eduardo Santos
+      password: Solera@2024
+    isousa:
+      email: igor.sousa@solera.com
+      failed_login_attempts: 0
+      logged_in: False
+      name: Igor Sousa
+      password: Solera@2024
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name
