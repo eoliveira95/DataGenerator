@@ -12,6 +12,8 @@ with open('config.yaml') as file:
 
 st.set_page_config(
     page_title="Data Generator",
+    layout="wide",  
+    initial_sidebar_state="expanded" 
 )
 
 # Autenticar usuário
